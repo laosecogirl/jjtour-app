@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "jjtour",
-    "slug": "cmu5mckkol9an01wk38oshl4s",
+    "slug": "client",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,11 +21,12 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.jjtour.client2"
+      "package": "com.jjtour.client"
     },
     "extra": {
       "eas": {
-        "projectId": "cmu5mckkol9an01wk38oshl4s"
+        // ⚠️ 고객용 프로젝트의 진짜 ID인 bf7e3368-48ad-4ea5-894b-be63ea54830d 로 설정해야 합니다!
+        "projectId": "bf7e3368-48ad-4ea5-894b-be63ea54830d"
       }
     },
     "web": {
