@@ -21,7 +21,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.jjtour.app"
+      "package": "com.jjtour.client"
     },
     "web": {
       "favicon": "./assets/favicon.png"
