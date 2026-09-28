@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "jjtour",
-    "slug": "client",
+    "slug": "cmu5mckkol9an01wk38oshl4s",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,11 +21,11 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.jjtour.client"
+      "package": "com.jjtour.client2"
     },
     "extra": {
       "eas": {
-        "projectId": "cmu5mckkol9an01wk38oshl4s-c0kfau4anzpvgz3sx6j"
+        "projectId": "cmu5mckkol9an01wk38oshl4s"
       }
     },
     "web": {
