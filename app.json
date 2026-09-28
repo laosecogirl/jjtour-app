@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "jjtour",
-    "slug": "client",
+    "slug": "cmu5mckkol9an01wk38oshl4s",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,8 +25,7 @@
     },
     "extra": {
       "eas": {
-        // ⚠️ 고객용 프로젝트의 진짜 ID인 bf7e3368-48ad-4ea5-894b-be63ea54830d 로 설정해야 합니다!
-        "projectId": "bf7e3368-48ad-4ea5-894b-be63ea54830d"
+        "projectId": "cmu5mckkol9an01wk38oshl4s-c0kfau4anzpvgz3sx6j"
       }
     },
     "web": {
