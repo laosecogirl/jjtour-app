@@ -1,20 +1,3 @@
-{
-  "expo": {
-    "name": "jjtour",
-    "slug": "snack-ddb99423-2034-4852-8454-665987701eea",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
@@ -23,8 +6,12 @@
       "edgeToEdgeEnabled": true,
       "package": "com.jjtour.client"
     },
+    // ⚠️ 아래 extra 내용을 정확하게 한 글자도 빠짐없이 복사해서 넣어주세요.
+    "extra": {
+      "eas": {
+        "projectId": "cmu5mckkol9an01wk38oshl4s-c0kfau4anzpvgz3sx6j"
+      }
+    },
     "web": {
       "favicon": "./assets/favicon.png"
     }
-  }
-}
