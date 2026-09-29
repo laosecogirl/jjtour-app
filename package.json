@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.io",
   "license": "0BSD",
   "main": "index.js",
   "scripts": {
