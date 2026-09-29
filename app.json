@@ -1,6 +1,5 @@
 {
   "expo": {
-    "baseUrl": "/jjtour-app",
     "name": "jjtour",
     "slug": "cmu5mckkol9an01wk38oshl4s-c0kfau4anzpvgz3sx6j",
     "version": "1.0.0",
@@ -30,7 +29,11 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "experiments": {
+      "baseUrl": "/jjtour-app"
     }
   }
 }
