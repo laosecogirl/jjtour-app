@@ -4,11 +4,11 @@
     "slug": "cmu5mckkol9an01wk38oshl4s-c0kfau4anzpvgz3sx6j",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./logo.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,7 +17,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./logo.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
@@ -29,9 +29,9 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png",
+      "favicon": "./logo.png",
       "bundler": "metro",
-      "icon": "./assets/icon.png"
+      "icon": "./logo.png"
     },
     "experiments": {
       "baseUrl": "/jjtour-app"
